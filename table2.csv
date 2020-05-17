@@ -1,0 +1,47 @@
+﻿NAME,HOME_STATE,EDUCATION_LEVEL,AGE
+Billy Anderson,NY,GRADUATE,52
+Bill A. Corkland,NY,GRADUATE,33
+Anne Erhnst,NY,GRADUATE,30
+Annie Franklin,CA,HIGH SCHOOL,21
+Chris H. Garfield,CA,HIGH SCHOOL,49
+Freddy Johnstin,CA,HIGH SCHOOL,28
+Colin Jones,CA,GRADUATE,31
+John R. Rich,CA,BACHELORS,47
+Ed Smith,NY,BACHELORS,50
+Anne Anderson,NY,PROFESSIONAL,55
+Sarah Corkland,OK,GRADUATE,49
+John Erhnst,AR,GRADUATE,32
+Chris H. Franklin,AR,GRADUATE,52
+Freddy Garfield,AR,HIGH SCHOOL,24
+Colin Johnstin,AR,HIGH SCHOOL,34
+John R. Jones,FL,HIGH SCHOOL,24
+Ed Rich,NY,GRADUATE,54
+Sarah Smith,NY,BACHELORS,40
+John Anderson,NY,BACHELORS,40
+Chris H. Corkland,CA,PROFESSIONAL,20
+Freddy Erhnst,CA,GRADUATE,45
+Colin Franklin,CA,GRADUATE,41
+Billy Garfield,CA,GRADUATE,18
+Billy Johnstin,CA,HIGH SCHOOL,39
+Bill A. Jones,NY,HIGH SCHOOL,19
+Anne Rich,NY,HIGH SCHOOL,22
+Annie Smith,OK,GRADUATE,24
+"Franklin, Annie  (BUYER)",2006,VISA,
+"Garfield, Chris H.  (BUYER)",2011,VISA,
+"Johnstin, Freddy  (BUYER)",2019,VISA,
+"Jones, Colin  (BUYER)",2010,VISA,
+"Rich, John R.  (BUYER)",2007,VISA,
+"Smith, Ed  (BUYER)",2008,AMEX,
+"Anderson, Anne  (BUYER)",2005,AMEX,
+"Corkland, Sarah  (BUYER)",2013,AMEX,
+"Erhnst, John  (BUYER)",2010,AMEX,
+"Franklin, Chris H. (SELLER)",2012,AMEX,
+"Garfield, Freddy (SELLER)",2012,AMEX,
+"Rich, Ed (SELLER)",2019,AMEX,
+"Smith, Sarah (SELLER)",2013,AMEX,
+"Anderson, John (SELLER)",2011,AMEX,
+"Corkland, Chris H. (SELLER)",2017,AMEX,
+"Erhnst, Freddy (SELLER)",2005,AMEX,
+"Franklin, Colin (SELLER)",2016,AMEX,
+"Garfield, Billy (SELLER)",2013,CHECK,
+"Johnstin, Billy (SELLER)",2014,CHECK,

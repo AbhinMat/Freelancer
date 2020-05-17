@@ -1,0 +1,47 @@
+﻿CUSTOMER_NAME,CUSTOMER_SINCE,PAYMENT_METHOD
+"Anderson, Billy  (BUYER)",2017,VISA
+"Corkland, Bill A.  (BUYER)",2011,VISA
+"Erhnst, Anne  (BUYER)",2010,VISA
+"Franklin, Annie  (BUYER)",2006,VISA
+"Garfield, Chris H.  (BUYER)",2011,VISA
+"Johnstin, Freddy  (BUYER)",2019,VISA
+"Jones, Colin  (BUYER)",2010,MASTERCARD
+"Rich, John R.  (BUYER)",2007,MASTERCARD
+"Smith, Ed  (BUYER)",2008,MASTERCARD
+"Anderson, Anne  (BUYER)",2005,MASTERCARD
+"Corkland, Sarah  (BUYER)",2013,AMEX
+"Erhnst, John  (BUYER)",2010,CHECK
+"Franklin, Chris H. (SELLER)",2012,CHECK
+"Garfield, Freddy (SELLER)",2012,CHECK
+"Johnstin, Colin (SELLER)",2015,CHECK
+"Jones, John R. (SELLER)",2012,CHECK
+"Rich, Ed (SELLER)",2019,AMEX
+"Smith, Sarah (SELLER)",2013,AMEX
+"Anderson, John (SELLER)",2011,MASTERCARD
+"Corkland, Chris H. (SELLER)",2017,MASTERCARD
+"Erhnst, Freddy (SELLER)",2005,MASTERCARD
+"Franklin, Colin (SELLER)",2016,MASTERCARD
+"Garfield, Billy (SELLER)",2013,AMEX
+"Johnstin, Billy (SELLER)",2014,AMEX
+"Jones, Bill A. (SELLER)",2010,VISA
+"Rich, Anne (SELLER)",2007,VISA
+"Smith, Annie (SELLER)",2010,VISA
+"Franklin, Annie  (BUYER)",2006,VISA
+"Garfield, Chris H.  (BUYER)",2011,VISA
+"Johnstin, Freddy  (BUYER)",2019,VISA
+"Jones, Colin  (BUYER)",2010,VISA
+"Rich, John R.  (BUYER)",2007,VISA
+"Smith, Ed  (BUYER)",2008,AMEX
+"Anderson, Anne  (BUYER)",2005,AMEX
+"Corkland, Sarah  (BUYER)",2013,AMEX
+"Erhnst, John  (BUYER)",2010,AMEX
+"Franklin, Chris H. (SELLER)",2012,AMEX
+"Garfield, Freddy (SELLER)",2012,AMEX
+"Rich, Ed (SELLER)",2019,AMEX
+"Smith, Sarah (SELLER)",2013,AMEX
+"Anderson, John (SELLER)",2011,AMEX
+"Corkland, Chris H. (SELLER)",2017,AMEX
+"Erhnst, Freddy (SELLER)",2005,AMEX
+"Franklin, Colin (SELLER)",2016,AMEX
+"Garfield, Billy (SELLER)",2013,CHECK
+"Johnstin, Billy (SELLER)",2014,CHECK

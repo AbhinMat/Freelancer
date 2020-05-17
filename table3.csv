@@ -1,0 +1,47 @@
+﻿CUSTOMER_NAME,CUSTOMER_SINCE,PAYMENT_METHOD,NAME,HOME_STATE,EDUCATION_LEVEL,AGE
+"Anderson, Billy  (BUYER)",2017,VISA,Billy Anderson,NY,GRADUATE,52
+"Corkland, Bill A.  (BUYER)",2011,VISA,Bill A. Corkland,NY,GRADUATE,33
+"Erhnst, Anne  (BUYER)",2010,VISA,Anne Erhnst,NY,GRADUATE,30
+"Franklin, Annie  (BUYER)",2006,VISA,Annie Franklin,CA,HIGH SCHOOL,21
+"Garfield, Chris H.  (BUYER)",2011,VISA,Chris H. Garfield,CA,HIGH SCHOOL,49
+"Johnstin, Freddy  (BUYER)",2019,VISA,Freddy Johnstin,CA,HIGH SCHOOL,28
+"Jones, Colin  (BUYER)",2010,MASTERCARD,Colin Jones,CA,GRADUATE,31
+"Rich, John R.  (BUYER)",2007,MASTERCARD,John R. Rich,CA,BACHELORS,47
+"Smith, Ed  (BUYER)",2008,MASTERCARD,Ed Smith,NY,BACHELORS,50
+"Anderson, Anne  (BUYER)",2005,MASTERCARD,Anne Anderson,NY,PROFESSIONAL,55
+"Corkland, Sarah  (BUYER)",2013,AMEX,Sarah Corkland,OK,GRADUATE,49
+"Erhnst, John  (BUYER)",2010,CHECK,John Erhnst,AR,GRADUATE,32
+"Franklin, Chris H. (SELLER)",2012,CHECK,Chris H. Franklin,AR,GRADUATE,52
+"Garfield, Freddy (SELLER)",2012,CHECK,Freddy Garfield,AR,HIGH SCHOOL,24
+"Johnstin, Colin (SELLER)",2015,CHECK,Colin Johnstin,AR,HIGH SCHOOL,34
+"Jones, John R. (SELLER)",2012,CHECK,John R. Jones,FL,HIGH SCHOOL,24
+"Rich, Ed (SELLER)",2019,AMEX,Ed Rich,NY,GRADUATE,54
+"Smith, Sarah (SELLER)",2013,AMEX,Sarah Smith,NY,BACHELORS,40
+"Anderson, John (SELLER)",2011,MASTERCARD,John Anderson,NY,BACHELORS,40
+"Corkland, Chris H. (SELLER)",2017,MASTERCARD,Chris H. Corkland,CA,PROFESSIONAL,20
+"Erhnst, Freddy (SELLER)",2005,MASTERCARD,Freddy Erhnst,CA,GRADUATE,45
+"Franklin, Colin (SELLER)",2016,MASTERCARD,Colin Franklin,CA,GRADUATE,41
+"Garfield, Billy (SELLER)",2013,AMEX,Billy Garfield,CA,GRADUATE,18
+"Johnstin, Billy (SELLER)",2014,AMEX,Billy Johnstin,CA,HIGH SCHOOL,39
+"Jones, Bill A. (SELLER)",2010,VISA,Bill A. Jones,NY,HIGH SCHOOL,19
+"Rich, Anne (SELLER)",2007,VISA,Anne Rich,NY,HIGH SCHOOL,22
+"Smith, Annie (SELLER)",2010,VISA,Annie Smith,OK,GRADUATE,24
+"Franklin, Annie  (BUYER)",2006,VISA,Annie Franklin,CA,HIGH SCHOOL,21
+"Garfield, Chris H.  (BUYER)",2011,VISA,Chris H. Garfield,CA,HIGH SCHOOL,49
+"Johnstin, Freddy  (BUYER)",2019,VISA,Freddy Johnstin,CA,HIGH SCHOOL,28
+"Jones, Colin  (BUYER)",2010,VISA,Colin Jones,CA,GRADUATE,31
+"Rich, John R.  (BUYER)",2007,VISA,John R. Rich,CA,BACHELORS,47
+"Smith, Ed  (BUYER)",2008,AMEX,Ed Smith,NY,BACHELORS,50
+"Anderson, Anne  (BUYER)",2005,AMEX,Anne Anderson,NY,PROFESSIONAL,55
+"Corkland, Sarah  (BUYER)",2013,AMEX,Sarah Corkland,OK,GRADUATE,49
+"Erhnst, John  (BUYER)",2010,AMEX,John Erhnst,AR,GRADUATE,32
+"Franklin, Chris H. (SELLER)",2012,AMEX,Chris H. Franklin,AR,GRADUATE,52
+"Garfield, Freddy (SELLER)",2012,AMEX,Freddy Garfield,AR,HIGH SCHOOL,24
+"Rich, Ed (SELLER)",2019,AMEX,Ed Rich,NY,GRADUATE,54
+"Smith, Sarah (SELLER)",2013,AMEX,Sarah Smith,NY,BACHELORS,40
+"Anderson, John (SELLER)",2011,AMEX,John Anderson,NY,BACHELORS,40
+"Corkland, Chris H. (SELLER)",2017,AMEX,Chris H. Corkland,CA,PROFESSIONAL,20
+"Erhnst, Freddy (SELLER)",2005,AMEX,Freddy Erhnst,CA,GRADUATE,45
+"Franklin, Colin (SELLER)",2016,AMEX,Colin Franklin,CA,GRADUATE,41
+"Garfield, Billy (SELLER)",2013,CHECK,Billy Garfield,CA,GRADUATE,18
+"Johnstin, Billy (SELLER)",2014,CHECK,Billy Johnstin,CA,HIGH SCHOOL,39
