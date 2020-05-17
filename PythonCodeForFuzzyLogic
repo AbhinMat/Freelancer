@@ -1,0 +1,25 @@
+import pandas as pd
+import fuzzy_pandas as fpd
+
+df1 = pd.read_csv("table1.csv")
+df2 = pd.read_csv("table2.csv")
+df3 = pd.DataFrame(df1.CUSTOMER_NAME.str.split('(',1).tolist(),
+                                 columns = ['CUSTOMER_NAMES','BUYERORSELLER'])
+df4 = pd.concat([df1, df3], axis=1, sort=False)
+matches = fpd.fuzzy_merge(df4, df2,
+                          left_on=['CUSTOMER_NAMES'],
+                          right_on=['NAME'],
+                          keep_left = df1.columns.tolist(),
+                          keep_right = df2.columns.tolist(),
+                          ignore_case=True,
+                          ignore_order_words=True,
+                          method = 'levenshtein',
+                          threshold = 0.74,
+                         
+                          
+                          
+                          )
+
+matches=matches.dropna()
+print(matches.dropna())
+matches.to_csv('final')
